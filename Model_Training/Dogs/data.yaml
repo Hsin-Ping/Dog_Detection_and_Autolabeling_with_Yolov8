@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['dogs']
+
+roboflow:
+  workspace: yolo-lggkk
+  project: dogs-4i7ne
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-lggkk/dogs-4i7ne/dataset/6
