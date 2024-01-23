@@ -6,4 +6,5 @@
 ## AutoLabel
 - The labeling format is YOLO format
 - Prediction Result
-<img src="images/result.jpg" width=400, height=600></img>
+
+  <img src="images/result.jpg" width=250, height=300></img>
