@@ -1,0 +1,1 @@
+# Dog_Detection_and_Autolabeling_with_Yolov8
